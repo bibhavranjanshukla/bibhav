@@ -1,0 +1,3 @@
+[submodule "webpipeline"]
+	path = webpipeline
+	url = https://github.com/bibhavranjanshukla/bibhav.git
